@@ -1,0 +1,59 @@
+body {
+    background-color: #87ceff;
+}
+
+h1 {
+	color: purple;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+}
+
+p {
+	color: purple;
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+}
+
+.jj {
+    border: #ffb6c1 ridge 20px;
+}
+
+.age {
+    background-color: #ffb6c1;
+}
+
+.candy {
+    background-color: #ffb6c1;
+}
+
+.taste {
+    background-color: #ffb6c1;
+}
+
+.sub {
+    background-color: red;
+}
+
+.resp {
+    border: solid 5px #ffcccb;
+    padding: 20px;
+    text-align: center;
+    display: none;
+}
+
+img {
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.qcount {
+    text-align: right;
+}
+
+.reset {
+    display: none;
+    margin-left: auto;
+    margin-right: auto;
+}
